@@ -41,6 +41,3 @@ This sound is improved and purified using some algorithms integrated into this p
 ![Slide31](https://github.com/Khaled-Magdi/Optical-Microphone/assets/86789501/13209b07-17c1-4344-b996-f0f7876713fc)
 ![Slide32](https://github.com/Khaled-Magdi/Optical-Microphone/assets/86789501/fafdddba-c6c0-4f82-9d30-ed10cd647dd7)
 ![Slide33](https://github.com/Khaled-Magdi/Optical-Microphone/assets/86789501/9fe5ac9e-544a-41a6-bc26-78f3fce75eed)
-![Slide36](https://github.com/Khaled-Magdi/Optical-Microphone/assets/86789501/58abd7de-fd3d-4699-a87b-bea1dc205aca)
-
-
